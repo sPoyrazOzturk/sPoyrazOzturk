@@ -1,6 +1,4 @@
-![A small robot carries an open MacBook](assets/macbook-pet.svg)
-
-![Poyraz Öztürk · GitHub Portfolio](assets/profile-banner.svg)
+![Santa Monica Pier and the Pacific Ocean](https://thumb.wikimedia.org/wikipedia/commons/thumb/4/47/Aerial_Photo_of_Santa_Monica_Pier.jpg/1280px-Aerial_Photo_of_Santa_Monica_Pier.jpg)
 
 I write native apps in Swift, including custom Mac apps for businesses. I also develop full-stack web apps. In my spare time, I tinker with wireless security and make my own tools and devices.
 
