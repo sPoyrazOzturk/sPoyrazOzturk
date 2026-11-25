@@ -1,4 +1,4 @@
-![A blue robot walks and jumps in the snow](assets/robot-pet.svg)
+![A small robot carries an open MacBook](assets/macbook-pet.svg)
 
 ![Poyraz Öztürk · GitHub Portfolio](assets/profile-banner.svg)
 
