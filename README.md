@@ -1,4 +1,4 @@
-![A kitten drives a snow loader back and forth](https://raw.githubusercontent.com/sPoyrazOzturk/sPoyrazOzturk/427573de83c5524328a657f337e881ee9451f963/assets/snow-pet.svg)
+![A blue robot walks and jumps in the snow](assets/robot-pet.svg)
 
 ![Poyraz Öztürk · GitHub Portfolio](assets/profile-banner.svg)
 
